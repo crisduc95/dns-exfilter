@@ -32,8 +32,16 @@ Asegúrate de contar con lo siguiente:
   pip install dnslib
 
 ## Herramienta externa sugerida (opcional para decodificación manual):
-  ```bash
-  https://www.base64decode.org
+- https://www.base64decode.org/
+
 
 ## Instalación
+```bash
+  git clone https://github.com/tuusuario/dnsexfilter.git
+  cd dnsexfilter
+  chmod +x Servidor_DNSExfilter.py Clientes_DNSexfilter.py
+  pip install requirements.txt
+
+##
+
 
