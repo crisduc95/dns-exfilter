@@ -36,12 +36,11 @@ Asegúrate de contar con lo siguiente:
 
 
 ## Instalación
+
+- Clonar el repositorio
 ```bash
   git clone https://github.com/tuusuario/dnsexfilter.git
   cd dnsexfilter
   chmod +x Servidor_DNSExfilter.py Clientes_DNSexfilter.py
-  pip install requirements.txt
-
 ##
-
 
